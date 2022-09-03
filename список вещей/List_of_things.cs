@@ -15,6 +15,6 @@ namespace LIST_OF_THINGS {
         public string Name_ { get; set; }
         public int id { get; set; }
 
-
     }
+   
 }
